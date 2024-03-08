@@ -804,3 +804,18 @@ footer .footer_main .tag .search_bar button{
     border-radius: 5px;
     background: linear-gradient(to right, #b23421, #a45523);
 }0
+
+/* Media query for tablets */
+@media only screen and (max-width: 768px) {
+    /* Adjust styles for tablets here */
+}
+
+/* Media query for mobile devices */
+@media only screen and (max-width: 480px) {
+    /* Adjust styles for mobile devices here */
+    body {
+        font-size: 14px;
+    }
+    /* Adjust other styles as needed */
+}
+
